@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_striteri.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pbolton <marvin@42.fr>                     +#+  +:+       +#+        */
+/*   By: lfrenzy <lfrenzy@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/10/09 16:46:22 by pbolton           #+#    #+#             */
-/*   Updated: 2021/10/09 16:46:25 by pbolton          ###   ########.fr       */
+/*   Created: 2021/12/07 15:14:21 by lfrenzy           #+#    #+#             */
+/*   Updated: 2021/12/07 15:14:22 by lfrenzy          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 #include "libft.h"
 
 void	ft_striteri(char *s, void (*f)(unsigned int, char *))

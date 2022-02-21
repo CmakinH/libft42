@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_split.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pbolton <marvin@42.fr>                     +#+  +:+       +#+        */
+/*   By: lfrenzy <lfrenzy@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/10/09 16:45:44 by pbolton           #+#    #+#             */
-/*   Updated: 2021/10/09 16:45:47 by pbolton          ###   ########.fr       */
+/*   Created: 2021/12/07 15:14:08 by lfrenzy           #+#    #+#             */
+/*   Updated: 2021/12/07 15:14:09 by lfrenzy          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 #include "libft.h"
 
 static void	ft_free(char **mass, int i)

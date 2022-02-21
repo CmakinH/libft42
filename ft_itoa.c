@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_itoa.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pbolton <marvin@42.fr>                     +#+  +:+       +#+        */
+/*   By: lfrenzy <lfrenzy@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/10/09 16:43:36 by pbolton           #+#    #+#             */
-/*   Updated: 2021/10/09 16:43:40 by pbolton          ###   ########.fr       */
+/*   Created: 2021/12/07 15:13:14 by lfrenzy           #+#    #+#             */
+/*   Updated: 2021/12/07 15:13:14 by lfrenzy          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 #include "libft.h"
 
 static int	ft_nbr_del(int n)

@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_memset.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: pbolton <marvin@42.fr>                     +#+  +:+       +#+        */
+/*   By: lfrenzy <lfrenzy@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/10/09 16:44:44 by pbolton           #+#    #+#             */
-/*   Updated: 2021/10/09 16:44:49 by pbolton          ###   ########.fr       */
+/*   Created: 2021/12/07 15:13:37 by lfrenzy           #+#    #+#             */
+/*   Updated: 2021/12/07 15:13:38 by lfrenzy          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 #include "libft.h"
 
 void	*ft_memset(void *b, int c, size_t len)
